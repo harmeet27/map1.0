@@ -1,0 +1,100 @@
+@CHARSET "ISO-8859-1";
+
+.button {
+	width:32.5%;
+	height:100px;
+	position:relative;
+    background-color: #ff8000; /* Green */
+    color:white;
+    font-weight:bold;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+.AC
+{
+	margin-top:0.5%;
+	background-color: #e22961;
+}
+.POEMS
+{
+	background-color: #aa55ff;
+}
+#pp
+{  
+	top:50px;
+	display:block;
+	background-color:#0c83da;
+	position:relative;
+    width: 20%;
+    padding: 10px;
+    border: 5px solid #000000;
+    margin: 0;
+    left:3%;
+}
+
+#icon
+{
+	color:#0080ff;
+}
+.dash
+{
+	display:block;
+}
+#mo
+{
+	background-color:#ff8000;
+	margin-left:27%;
+	margin-top:-420px;
+	width:70%;
+	height:140px;
+	border:5px solid black;
+}
+#mu
+{
+	background-color:#ff8000;
+	margin-left:27%;
+	width:70%;
+	height:140px;
+	border:5px solid black;
+}
+#po
+{   
+	position:absolute;
+	background-color:#aa55ff;
+	margin-left:27%;
+	margin-right:2%;
+	width:34%;
+	height:140px;
+	padding:10px;
+	border:5px solid black;
+}
+#ac
+{  
+	position:absolute;
+	background-color:#e22961;
+	margin-left:62%;
+	width:34%;
+	height:140px;
+	padding:10px;
+	border:5px solid black;
+}
+#a
+{
+  color:white;
+  display:inline-block;
+  margin-top:30%;
+}
+h3
+{
+	margin-left:50%;
+}
+.poac
+{
+	display:inline-block;
+}
+label
+{
+	white-space: pre;
+}

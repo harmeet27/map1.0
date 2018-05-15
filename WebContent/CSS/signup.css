@@ -1,0 +1,63 @@
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 13px;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+}
+.submit
+{
+	background-color: #ff8000;
+    color: white;
+    padding: 13px;
+    font-size: 13px;
+    font-weight:bold;
+    border-width:medium;
+    border-color: black;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.show {display:block;}
+
+.pass
+{
+	font-size: 30px;
+	display: inline-block;
+}
+.label
+{
+	color: black;
+}
+div
+{  
+	display:block;
+	background-color:#ffffff;
+	position:relative;
+	top:25px;
+    left : 29%;
+    width: 40%;
+    padding: 10px;
+    border: 2px solid #ff8000;
+    margin: 0;
+}
